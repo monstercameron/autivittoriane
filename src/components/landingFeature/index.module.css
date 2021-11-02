@@ -46,10 +46,10 @@
 
 .sub > div {
   position: absolute;
-  padding: 1rem;
+  padding: .2rem;
 }
 
-.sub > div > h4 {
+.sub > div > h4,h6 {
   text-shadow: 1px 1px #ffffff;
 }
 

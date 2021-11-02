@@ -15,28 +15,161 @@ export default function index() {
                         <img src={rackAndPinion} alt="ring and pinion" className='img-fluid' />
                     </div>
                     <div>
-                        <h4>Final Drive: 3.55</h4>
+                        <h6>Final Drive: 3.55</h6>
                     </div>
                 </div>
-                <div>test 1</div>
-                <div>test 1</div>
-                <div>test 1</div>
-                <div>test 1</div>
-                <div>test 1</div>
-                <div>test 1</div>
-                <div>test 1</div>
-                <div>test 1</div>
-                <div>test 1</div>
-                <div>test 1</div>
-                <div>test 1</div>
-                <div>test 1</div>
-                <div>test 1</div>
-                <div>test 1</div>
-                <div>test 1</div>
-                <div>test 1</div>
-                <div>test 1</div>
-                <div>test 1</div>
-                <div>test 1</div>
+                <div className={sub}>
+                    <div>
+                        <img src='' alt="" className='img-fluid' />
+                    </div>
+                    <div>
+                        <h6>Transmission: T56 magnum</h6>
+                    </div>
+                </div>
+                <div className={sub}>
+                    <div>
+                        <img src='' alt="" className='img-fluid' />
+                    </div>
+                    <div>
+                        <h6>feature here</h6>
+                    </div>
+                </div>
+                <div className={sub}>
+                    <div>
+                        <img src='' alt="" className='img-fluid' />
+                    </div>
+                    <div>
+                        <h6>feature here</h6>
+                    </div>
+                </div>
+                <div className={sub}>
+                    <div>
+                        <img src='' alt="" className='img-fluid' />
+                    </div>
+                    <div>
+                        <h6>feature here</h6>
+                    </div>
+                </div>
+                <div className={sub}>
+                    <div>
+                        <img src='' alt="" className='img-fluid' />
+                    </div>
+                    <div>
+                        <h6>feature here</h6>
+                    </div>
+                </div>
+                <div className={sub}>
+                    <div>
+                        <img src='' alt="" className='img-fluid' />
+                    </div>
+                    <div>
+                        <h6>feature here</h6>
+                    </div>
+                </div>
+                <div className={sub}>
+                    <div>
+                        <img src='' alt="" className='img-fluid' />
+                    </div>
+                    <div>
+                        <h6>feature here</h6>
+                    </div>
+                </div>
+                <div className={sub}>
+                    <div>
+                        <img src='' alt="" className='img-fluid' />
+                    </div>
+                    <div>
+                        <h6>feature here</h6>
+                    </div>
+                </div>
+                <div className={sub}>
+                    <div>
+                        <img src='' alt="" className='img-fluid' />
+                    </div>
+                    <div>
+                        <h6>feature here</h6>
+                    </div>
+                </div>
+                <div className={sub}>
+                    <div>
+                        <img src='' alt="" className='img-fluid' />
+                    </div>
+                    <div>
+                        <h6>feature here</h6>
+                    </div>
+                </div>
+                <div className={sub}>
+                    <div>
+                        <img src='' alt="" className='img-fluid' />
+                    </div>
+                    <div>
+                        <h6>feature here</h6>
+                    </div>
+                </div>
+                <div className={sub}>
+                    <div>
+                        <img src='' alt="" className='img-fluid' />
+                    </div>
+                    <div>
+                        <h6>feature here</h6>
+                    </div>
+                </div>
+                <div className={sub}>
+                    <div>
+                        <img src='' alt="" className='img-fluid' />
+                    </div>
+                    <div>
+                        <h6>feature here</h6>
+                    </div>
+                </div>
+                <div className={sub}>
+                    <div>
+                        <img src='' alt="" className='img-fluid' />
+                    </div>
+                    <div>
+                        <h6>feature here</h6>
+                    </div>
+                </div>
+                <div className={sub}>
+                    <div>
+                        <img src='' alt="" className='img-fluid' />
+                    </div>
+                    <div>
+                        <h6>feature here</h6>
+                    </div>
+                </div>
+                <div className={sub}>
+                    <div>
+                        <img src='' alt="" className='img-fluid' />
+                    </div>
+                    <div>
+                        <h6>feature here</h6>
+                    </div>
+                </div>
+                <div className={sub}>
+                    <div>
+                        <img src='' alt="" className='img-fluid' />
+                    </div>
+                    <div>
+                        <h6>feature here</h6>
+                    </div>
+                </div>
+                <div className={sub}>
+                    <div>
+                        <img src='' alt="" className='img-fluid' />
+                    </div>
+                    <div>
+                        <h6>feature here</h6>
+                    </div>
+                </div>
+                <div className={sub}>
+                    <div>
+                        <img src='' alt="" className='img-fluid' />
+                    </div>
+                    <div>
+                        <h6>feature here</h6>
+                    </div>
+                </div>
             </div>
         </div>
     )
