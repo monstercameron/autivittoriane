@@ -7,7 +7,7 @@ import Nav from "../components/navbar/index";
 const Home = () => {
   return (
     <>
-      <Nav />aaa
+      <Nav />
       <div className="container">home</div>
     </>
   );
